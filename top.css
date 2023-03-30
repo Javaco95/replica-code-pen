@@ -1,0 +1,55 @@
+.top {
+    display: flex;
+    background-color: rgba(20, 20, 20, 0.995);
+    
+}
+.left-column {
+    align-content: right;
+    padding: 100px 50px;
+}
+
+.logoimg {
+    justify-content: center;
+    display: flex;
+    padding: 0px 356px;
+    
+}
+
+#logocp {
+    size-adjust: 20px;
+}
+
+.L1 {
+    color: white;
+    font-size: 3em ;
+    
+}
+
+.L2 {
+    padding: 0px 356px;
+    color: hsl(230deg 13% 81%);
+    font-size: 1.1em;
+}
+
+strong {
+    color: white;
+}
+
+.white-l {
+    color: white;
+}
+.signfree {
+    padding: 50px 356px;
+}
+.domain {
+    padding: 0px 340px;
+}
+.colors {
+    background-color: rgba(20, 20, 20, 0.995);
+    padding: 0px 300px;
+    
+}
+
+.screenshot {
+    align-items: left;
+}

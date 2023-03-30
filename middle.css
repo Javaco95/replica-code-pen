@@ -1,0 +1,14 @@
+.middle {
+    background-color: rgba(20, 20, 20, 0.995);
+    padding: 0px 250px;
+}
+
+.next {
+    
+    padding: 0px 600px;
+}
+
+.bottom {
+    background: hsl(0deg 1% 1%);
+    width: 100%;
+}

@@ -1,0 +1,33 @@
+body {
+    
+}
+
+.Search-Sign-up-and-Log-in {
+    color: gray;
+    background-color: black;
+    display:flex;
+    justify-content: space-around;
+
+}
+
+.search { 
+    align-items: center;
+
+}
+
+
+.Search-Sign-up-and-Log-in i {
+    justify-content: center;
+   
+}
+
+.sign-up {
+
+  
+}
+
+
+.btn {
+    background-color: green;
+    color: black;
+}
